@@ -2,7 +2,7 @@
 
 **Candidate:** Zohaib Younas  
 **Assessment reference:** MATACS-TH-2026-02  
-**Time spent:** [Enter your actual time spent before submission]
+**Time spent:** 60 minutes 
 
 ## Deliverables
 
